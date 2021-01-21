@@ -8,7 +8,5 @@ This is the pdf file of our paper: "Applications of Deep Learning in Fundus Imag
 This file desicribes widely-used fundus image datasets. Newly-released datasets not included in our original paper are showed in red.
 # Experimental results
 This file desicribes experimental results of recent works worth noticing. Latest results not included in our original paper are showed in red.
-# List of paper
-This file is the list of high-quality papers in this scope. Recently-published papers and previous papers not screened by used keywords in our original paper are showed in red.
 # Citation
 Please cite this paper as: Tao Li, Wang Bo, Chunyu Hu, Hong Kang, Hanruo Liu, Kai Wang, Huazhu Fu. Applications of Deep Learning in Fundus Images: A Review. Medical Image Analysis, 2021.
