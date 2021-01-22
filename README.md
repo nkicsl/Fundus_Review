@@ -1,6 +1,6 @@
 # Fundus_Review
-This repository will update contents not included in our previous paper, including descriptions of newly-released fundus image datasets, latest experimental results
-with their settings and lists of recently-published high-quality papers.
+This repository will update contents not included in our previous paper, including descriptions of newly-released fundus image datasets and latest experimental results
+with their settings.
 The pdf file of our paper: "Applications of Deep Learning in Fundus Images: A Review" is also presented.
 # Paper
 This is the pdf file of our paper: "Applications of Deep Learning in Fundus Images: A Review" accepted by Medical Image Analysis. You can also download it through https://www.sciencedirect.com/science/article/abs/pii/S1361841521000177
