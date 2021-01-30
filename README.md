@@ -4,7 +4,7 @@ with their settings.
 The pdf file of our paper: "Applications of Deep Learning in Fundus Images: A Review" is also presented.
 If there are any questions, please contact bowang@mail.nankai.edu.cn
 # Paper
-This is the pdf file of our paper: "Applications of Deep Learning in Fundus Images: A Review" accepted by Medical Image Analysis. You can also download it through https://www.sciencedirect.com/science/article/abs/pii/S1361841521000177
+This is the pdf file of our paper: "Applications of Deep Learning in Fundus Images: A Review" accepted by Medical Image Analysis. You can also download it through https://www.sciencedirect.com/science/article/abs/pii/S1361841521000177 or https://arxiv.org/abs/2101.09864.
 # Datasets
 This file desicribes widely-used fundus image datasets. Newly-released datasets not included in our original paper are showed in blue.
 # Experimental results
